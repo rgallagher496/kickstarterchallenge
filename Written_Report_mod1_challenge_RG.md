@@ -17,7 +17,7 @@ Contained below is a summary of results from the analysis done in [kickstarterch
 	starting month pulled from data across multiple years.  To see the supporting pivot table look in the "TheaterOutcomesBy Launch Date" tab of the
 	excel file linked above.
 
-	![kickstarterchallenge](/kickstaterchallenge/Theater_Outcomes_vs_Launch.png)
+	![kickstarterchallenge](/Theater_Outcomes_vs_Launch.png)
 
 
 	Outcomes based on goal size
@@ -25,7 +25,7 @@ Contained below is a summary of results from the analysis done in [kickstarterch
 	The following image is a line graph of the percent of successful, failed, and canceled campaigns of the theater subcategory of plays grouped by size of
 	the campaign goal.  To see the supporting pivot table look in the "Outcomes Based on Goals" tab of the excel file linked above.
 	
-	![kickstaterchallenge](/kickstaterchallenge/Outcomes_vs_Goals.png)
+	![kickstaterchallenge](/Outcomes_vs_Goals.png)
 
 	Challenges
 
